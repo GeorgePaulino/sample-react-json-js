@@ -19,7 +19,7 @@ Install dependencies and run the server:
   npm start
 ```
 
-After access http://localhost:3000/
+After access <http://localhost:3000/>
 
 ## Screenshots
 

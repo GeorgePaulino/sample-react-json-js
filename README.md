@@ -3,6 +3,8 @@
 
 Site to show meaningful qualities about front-end development in ReactJs using JavaScript as programming language.
 
+This project was deployed at: https://georgepaulino.github.io/sample-react-json-js/
+
 ## Run Locally
 
 Clone the project:

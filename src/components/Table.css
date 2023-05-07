@@ -1,0 +1,35 @@
+.Table {
+    border-collapse: collapse;
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+th,
+td {
+    padding: 10px 15px;
+    text-align: center;
+    border-bottom: 1.5px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    color: #333;
+    font-weight: bold;
+}
+
+tr {
+    background-color: #00000050;
+}
+
+tr:nth-child(odd) {
+    background-color: #000000b0;
+}
+
+.Table-name__green {
+    color: green;
+}
+
+.Table-name__red {
+    color: red;
+}

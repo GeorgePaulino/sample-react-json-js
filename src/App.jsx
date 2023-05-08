@@ -12,7 +12,7 @@ function App() {
       <main className="App-main">
         <Table datas={Datas} original={original} />
         <button className="App-button__mode" onClick={() => {setOriginal(!original)}}>+</button>
-        <p>George P.</p>
+        <a className="App-link" href="https://github.com/GeorgePaulino/sample-react-json-js">George P.</a>
         <img src={logo} className="App-logo" alt="logo" />
       </main>
     </div>

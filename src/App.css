@@ -14,7 +14,15 @@
   color: white;
 }
 
+.App-link{
+  margin-top: 3vh;
+  color: white;
+}
+
 .App-button__mode {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
   margin-top: 10px;
   position: fixed;
   bottom: 20px;
